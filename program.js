@@ -10,10 +10,10 @@ router.get('/sendMail',(req,res)=>{
         secure:false,
         auth: {
             type: 'OAuth2',
-            user: 'zaynmalik111298@gmail.com',
-            pass: 'Pa$$W0rd9812',
-            clientId: '818686816195-20m0ipr08ck1omhedhis9v6menqs5vro.apps.googleusercontent.com',
-            clientSecret: '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',
+            user: 'zaynmalik1112xcdsvbdgnfmg98@gmail.com',
+            pass: 'Padfgdfgfhm,hm',
+            clientId: '818686816195-20m0ipr08ck1omhedhis9v6dfgfghhgmenqs5vro.apps.googleusercontent.com',
+            clientSecret: 'GOCSPX-z8TO3CQjMHDmmYdJDfgfgfbn v pVljufhuyIn',
             refreshToken: '1//044w4SsADsnUoCgYIARAAGAQSNwF-L9Ir_IKlYgXOYPJK-KxD-oWPUfLCDljQGLrxKMD_JRfkmwLrjDQkq_ElUEi8JHDcfNTZl-A'
         }
       });
